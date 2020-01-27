@@ -4,7 +4,7 @@
 
 <h2>Preview of the running web application</h2>
 
-<h3>Displaying status => <i>INACTIVE</i></h3>
+<h3>Displaying status => <span style="color: #ff0000"><i>INACTIVE</i></span style></h3>
 <img src="./images/web_aplication.png">
 
 <h2>Work with web application</h2>
