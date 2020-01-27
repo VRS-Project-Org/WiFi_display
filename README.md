@@ -5,8 +5,8 @@
 <img src="./images/web_aplication.png">
 
 <h3><u>Work with web application</u></h3>
-<img src="./images/work_active.jpg">
-<img src="./images/work_done.jpg">
+<img src="./images/work_active.png">
+<img src="./images/work_done.png">
 
 <h3><u>Result work displayed on LCD</u></h3>
-<img src="./images/result.jpg">
+<img src="./images/result.png">
